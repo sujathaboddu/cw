@@ -9,7 +9,7 @@ Maven 3.0+
 #Instructions to run the app
 
 1. Download and unzip the source repository for this app, or clone it using Git: 
-git clone https://github.com/sujathaboddu/cw.git
+	git clone https://github.com/sujathaboddu/cw.git
 
 2. cd to the dir the app is cloned to
 
