@@ -6,9 +6,10 @@ JDK 1.8
 Maven 3.0+
 
 
-Instructions to run the app
+#Instructions to run the app
 
-1. Download and unzip the source repository for this app, or clone it using Git: git clone https://github.com/sujathaboddu/cw.git
+1. Download and unzip the source repository for this app, or clone it using Git: 
+git clone https://github.com/sujathaboddu/cw.git
 
 2. cd to the dir the app is cloned to
 
@@ -21,11 +22,11 @@ Instructions to run the app
 5. Access the application
 		http://localhost:8080
 		
-		This will return a web page to create an offer.
+	This will return a web page to create an offer.
 
 6. The rest services can be tested using Rest client. 
 	The api contracts can be found at swagger
-	http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui.html
 
 
 Assumptions	:
