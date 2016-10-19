@@ -1,0 +1,2 @@
+insert into Offer(name, description, price, currency) values( 'Magnetic Board', 'Brand New', 123.34, 'GBP');
+insert into Offer(name, description, Price, Currency) values( 'Laptop', 'Made in America', 1223.34, 'GBP');
